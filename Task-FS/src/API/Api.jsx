@@ -1,0 +1,5 @@
+export const addTask="http://localhost:5000/task"
+export const allTask="http://localhost:5000/get-all-task"
+export const oneTask="http://localhost:5000/get-one-task/"
+export const editTask="http://localhost:5000/update-task/"
+export const deleteTask="http://localhost:5000/delete-task/"
