@@ -9,6 +9,7 @@ import { editTask } from '../API/Api';
 import './card.css'
 
 function Card({taskmap}) {
+  
         const navigate = useNavigate()
       
         async function del() {
